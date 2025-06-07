@@ -1,6 +1,2 @@
-streamlit
-streamlit_ace
-io
-sys
-random
-math
+streamlit>=1.45.1
+streamlit_ace>=0.1.1
