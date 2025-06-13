@@ -126,6 +126,7 @@ if run_pressed:
                 "max": max,
                 "abs": abs,
                 "sum": sum,
+                "type":type,
             },
             "Num": num_input,
             "name": name_input,
