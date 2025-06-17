@@ -5,6 +5,7 @@ import sys
 import random
 import math
 import datetime
+import pandas as pd 
 
 # ✅ MUST be first Streamlit command
 st.set_page_config(page_title="Codey Python Playground", layout="wide")
@@ -127,6 +128,7 @@ if run_pressed:
                 "abs": abs,
                 "sum": sum,
                 "type":type,
+                "pandas":pands,
             },
             "Num": num_input,
             "name": name_input,
