@@ -128,7 +128,7 @@ if run_pressed:
                 "abs": abs,
                 "sum": sum,
                 "type":type,
-                "pandas":pands,
+                "pandas":pandas,
             },
             "Num": num_input,
             "name": name_input,
